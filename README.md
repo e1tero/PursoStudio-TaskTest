@@ -1,4 +1,4 @@
-# PursoStudio-TestTask
+# PustoStudio-TestTask
 
 ## Описание
 Тестовое задание на вакансию Unity Разработчик от компании PursoStudio.
