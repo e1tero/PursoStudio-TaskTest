@@ -1,7 +1,7 @@
 # PustoStudio-TestTask
 
 ## Описание
-Тестовое задание на вакансию Unity Разработчик от компании PursoStudio.
+Тестовое задание на вакансию Unity Разработчик от компании PustoStudio.
 
 ### 📄 Документация
 [Посмотреть ТЗ-документ на Google Docs](https://docs.google.com/document/d/1ucHMytenWh1_e9KGfHvGcmIQ5L6tlARSXN1HemqXMcE/edit)
@@ -9,7 +9,7 @@
 ---
 
 ## Description
-This is a test task for the Unity Developer position at PursoStudio.
+This is a test task for the Unity Developer position at PustoStudio.
 
 ### 📄 Documentation
 [View the task document on Google Docs](https://docs.google.com/document/d/1ucHMytenWh1_e9KGfHvGcmIQ5L6tlARSXN1HemqXMcE/edit)
