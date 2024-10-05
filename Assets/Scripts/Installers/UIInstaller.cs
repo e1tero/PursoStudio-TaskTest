@@ -7,15 +7,22 @@ namespace CurrentTime_TestTask.Installers
 {
     public class UIInstaller : MonoInstaller
     {
-        [Header("UI")]
+        [Header("Time Input View")]
         [SerializeField] private TMP_InputField _timeInputField;
-        [SerializeField] private TMP_Text _timeDisplayText;
-        [SerializeField] private Button _enterEditModeButton;
         [SerializeField] private Button _saveButton;
+
+        [Header("Time Control UI")]
+        [SerializeField] private Button _enterEditModeButton;
+        [SerializeField] private Button _saveButtonControl;
+
+        [Header("Background Image Settings")]
         [SerializeField] private Image _backgroundImage; 
         [SerializeField] private Color _pausedColor;
         [SerializeField] private Color _defaultColor;
         [SerializeField] private float _changeDuration;
+
+        [Header("Time Display")]
+        [SerializeField] private TMP_Text _timeDisplayText;
 
         public override void InstallBindings()
         {
