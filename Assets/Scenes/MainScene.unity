@@ -1492,8 +1492,8 @@ MonoBehaviour:
   _changeDuration: 0.75
   _timeInputField: {fileID: 236936129}
   _setTimeButton: {fileID: 1405296733}
-  enterEditModeButton: {fileID: 770970273}
-  saveButton: {fileID: 1405296733}
+  _enterEditModeButton: {fileID: 770970273}
+  _saveButton: {fileID: 1405296733}
   _graphicRaycaster: {fileID: 1330559591}
 --- !u!114 &856986754
 MonoBehaviour:
